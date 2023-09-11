@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yathindra-sagar
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently working on Comptia security plus certification
 - 💞️ I’m looking to collaborate on any kind of cyber security related projects and developing payloads
 - 📫 Reachme at LinkedIn linkenin.com/in/yathindra-sagar
 
